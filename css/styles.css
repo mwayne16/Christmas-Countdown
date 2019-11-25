@@ -12,7 +12,7 @@ html,
 body {
   font-family: "Amatic SC", cursive;
 
-  background: url(/images/8.jpg);
+  background: url("../images/8.jpg");
   background-position: top top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -45,18 +45,18 @@ canvas {
 main {
   position: relative;
   z-index: 1;
-  max-width: 1000px;
-  height: 39vh;
+  max-width: 950px;
+  min-height: 350px;
   margin: auto;
   top: 50%;
   left: 500px;
   transform: translate(-50%, -50%);
-  background: url(/images/6.jpg);
+  background: url("../images/6.jpg");
   opacity: 0.9;
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
-  border-radius: 50px;
+  border-radius: 20px;
   border: 3px solid #be962e;
   box-shadow: 2px -5px 35px 15px #988146;
 }
@@ -158,7 +158,7 @@ span.emojis {
   height: 50px;
   position: absolute;
   overflow: hidden;
-  top: -50px;
+  top: -45px;
   left: 307.5px;
   background: #000;
   border-radius: 100%;
