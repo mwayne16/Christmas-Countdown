@@ -1,2 +1,2 @@
 # Christmas-Countdown
-Countind down the days of Christmas (HTML/CSS/JS)
+Counting down the days of Christmas (HTML/CSS/JS)
