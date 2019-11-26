@@ -64,7 +64,7 @@ main {
 .countdown-container {
   z-index: 2;
   position: absolute;
-  max-width: 615px;
+  max-width: 590px;
   width: 100%;
   height: 255px;
   top: 50%;
@@ -74,6 +74,7 @@ main {
 
 .christmas-title {
   position: relative;
+  top: 5px;
 }
 
 h1 {
